@@ -1,3 +1,5 @@
+#sgtweeppsg-ex2
+
 #Assign metrices to variables
 spend = 2000
 budget = 100000
