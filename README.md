@@ -1,10 +1,10 @@
 # SG Tweep Python Study Group (2019) Exercise 2
 
 ## Objective 
-This exercise aims to allow students to practise formatting text and saving the output into a file.
+This exercise aims to allow students to practise formatting text and saving the output into a text file.
 
 ## Scenario & Task
-Your client has a ads budget of $100,000 to spend. He/she chooses to spend $2,000 on the first day and for every subsequent day, he/she will increase the spent by 5%. Your task is to generate a report file (report.txt) to show how the budget will be spent each day. 
+Your client has an ads budget of $100,000 to spend. He/she chooses to spend $2,000 on the first day and for every subsequent day, he/she will increase the spent by 5%. Your task is to generate a report file (report.txt) to show how the budget will be spent each day. 
 
 ## Expected Output
 report.txt should look like this:
