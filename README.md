@@ -38,3 +38,6 @@ Day 24    $6143.05    $10996.00
 Day 25    $6450.20    $4545.80   
 Day 26    $4545.80    $0.00 
 ```
+## Contributors
+* [Shang Liang](https://twitter.com/quietcricket) - Wrote the initial version.
+* [Nicholas Chua](https://twitter.com/chua_mh) - Minor wording suggestions.
