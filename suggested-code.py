@@ -1,4 +1,4 @@
-#Assign values to variables
+#Assign metrices to variables
 spend = 2000
 budget = 100000
 rate = 0.05
@@ -7,7 +7,7 @@ day = 0
 #Open a file and indicate it for w for writing, a for appending
 out = open('report.txt', 'w')
 
-#Print out the headers for data
+#Print out the headers for data in the correct format
 print ('{:>5s} {:^25s} {:^12s}'. format('Day', 'Spend', 'Remaining'), file = out)
 
 #Create while loop to calculate budget and spend changes over time
