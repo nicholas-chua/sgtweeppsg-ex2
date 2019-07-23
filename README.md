@@ -40,4 +40,4 @@ Day 26    $4545.80    $0.00
 ```
 ## Contributors
 * [Shang Liang](https://twitter.com/quietcricket) - Wrote the initial version.
-* [Nicholas Chua](https://twitter.com/chua_mh) - Minor wording suggestions.
+* [Nicholas Chua](https://twitter.com/chua_mh) - Wording & code suggestions.
